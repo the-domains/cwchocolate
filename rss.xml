@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[cwchocolate]]></title>
         <description><![CDATA[cwchocolate]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/cwchocolate/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 07 Mar 2016 16:43:18 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 07 Mar 2016 18:42:17 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/cwchocolate/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d4ac1834-e497-413c-b5ac-3b02e0d4a9ca.jpg">]]></description>
+            <link>https://thegrid.ai/cwchocolate/7753898c-9b07-4b5e-9160-44150bc8fa05/index.html</link>
+            <guid isPermaLink="false">7753898c-9b07-4b5e-9160-44150bc8fa05</guid>
+            <pubDate>Mon, 07 Mar 2016 18:41:56 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Community Well</p>]]></description>
-            <link>undefineda315edce-cf0a-4ec0-b5e3-30df13f4209d/index.html</link>
+            <link>https://thegrid.ai/cwchocolate/a315edce-cf0a-4ec0-b5e3-30df13f4209d/index.html</link>
             <guid isPermaLink="false">a315edce-cf0a-4ec0-b5e3-30df13f4209d</guid>
             <pubDate>Mon, 07 Mar 2016 16:42:26 GMT</pubDate>
         </item>
