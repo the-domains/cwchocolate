@@ -1,6 +1,6 @@
 name: cwchocolate
 favicon: null
-layout_spectrum: 0.49951
+layout_spectrum: 0.62417
 typography_spectrum: 0.76625
 cta:
   domain: null
@@ -21,7 +21,7 @@ color:
     - '#7b5026'
     - '#fdf0e0'
     - '#eac695'
-  brandStrength: 0.9654673857148737
+  brandStrength: 0.8125
   lightness: 0.8572274700272828
   saturation: 0.3143928307108581
   rhythmicContrast: 0.12567321001552045
